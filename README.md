@@ -3,8 +3,8 @@
 My name is Fellipe.  
 I currently work as a Salesforce developer and admin.  
 Most of my posts have been related to Salesforce, but I may add more.  
-My current goal is to get certified in Salesforce JavaScript.
-
+My current goal is to get certified in Salesforce JavaScript.  
+:thumbsup:
 
 <!--
 **fddemora/fddemora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
