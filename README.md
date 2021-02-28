@@ -7,7 +7,7 @@ Most of my posts have been related to Salesforce, but I may add more.
 I have 4 certifications: Salesforce JavaScript, Salesforce Admin,
 Salesforce PD1, and OCA Java Programmer.
 
-My current goal is to get certified in Salesforce Vlocity.  
+My current goal is to get certified in Salesforce Vlocity. I also have a plan to develop a portfolio to showcase my projects. 
 :thumbsup:
 
 <!--
