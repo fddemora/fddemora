@@ -3,7 +3,10 @@
 My name is Fellipe.  
 I currently work as a Salesforce developer and admin.  
 Most of my posts have been related to Salesforce, but I may add more.  
-I have 4 certifications: Salesforce JavaScript, Salesforce Admin, Salesforce PD1, and OCA Java Programmer.
+
+I have 4 certifications: Salesforce JavaScript, Salesforce Admin,
+Salesforce PD1, and OCA Java Programmer.
+
 My current goal is to get certified in Salesforce Vlocity.  
 :thumbsup:
 
