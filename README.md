@@ -9,7 +9,7 @@ Salesforce PD1, and OCA Java Programmer.
 
 
 
-My current goal is to get certified in Salesforce Vlocity. I also have a plan to develop a portfolio to showcase my future projects. 
+My current goal is to get certified in Salesforce Vlocity. I also have a plan to develop a portfolio to showcase my future projects. <br/>
 Skills that I'd like to improve upon: bash scripting, css/scss, and web components.  
 :thumbsup:
 
