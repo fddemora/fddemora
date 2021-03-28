@@ -1,6 +1,3 @@
-
-
-
 ### Hi there 👋
 
 My name is Fellipe.  
