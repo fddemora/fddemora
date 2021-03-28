@@ -7,7 +7,7 @@ My name is Fellipe.
 - 🌱 Currently learning Vlocity and will go for the vlocity platform developer.
 
  
-[salesforce]()
+[salesforce](SFU_CRT_BDG_Pltfrm_Dev_I_RGB.jpg)
 
 <!--
 **fddemora/fddemora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
