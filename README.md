@@ -4,7 +4,7 @@ My name is Fellipe.
 
 
 - 🖥  I currently work as a Salesforce developer.
-- 🌱 Currently learning Vlocity and will go for the vlocity platform developer.
+- 🌱 Currently learning Vlocity and will go for the vlocity platform developer cert.
 
  
 <img src="SFU_CRT_BDG_Pltfrm_Dev_I_RGB.jpg" width="154">
