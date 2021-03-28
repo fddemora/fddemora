@@ -11,7 +11,7 @@ Salesforce PD1, and OCA Java Programmer.
 
 My current goal is to get certified in Salesforce Vlocity. I also have a plan to develop a portfolio to showcase my future projects. <br/>
  
-:thumbsup:
+
 
 <!--
 **fddemora/fddemora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
