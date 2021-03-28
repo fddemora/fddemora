@@ -1,3 +1,6 @@
+
+
+
 ### Hi there 👋
 
 My name is Fellipe.  
@@ -6,9 +9,10 @@ My name is Fellipe.
 - 🖥  I currently work as a Salesforce developer.
 - 🌱 Currently learning Vlocity and will go for the vlocity platform developer cert.
 
- 
-<img src="SFU_CRT_BDG_Pltfrm_Dev_I_RGB.jpg" width="154">
-
+<div>
+<img  src="SFU_CRT_BDG_Pltfrm_Dev_I_RGB.jpg" width="154">
+<img src="SFU_CRT_BDG_Admin_RGB.jpg" width="154">
+</div>
 <!--
 **fddemora/fddemora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
