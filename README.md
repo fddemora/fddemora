@@ -4,7 +4,9 @@ My name is Fellipe.
 
 
 - 🖥  I currently work as a Salesforce developer.
-- 🌱 Currently learning Vlocity platform development.
+- 🌱 Currently learning Vlocity platform development & Salesforce Marketing Cloud.
+- :violin: I enjoy playing the violin and viola.
+- :us: 🇧🇷 Born in Brazil but life is in the US. 
 
 <div>
 <img  src="SFU_CRT_BDG_Pltfrm_Dev_I_RGB.jpg" width="154">
