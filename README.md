@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-
-- 🖥  I currently work as a Programmer Analyst.
-- 🌱 Currently learning Vlocity platform development & Salesforce Marketing Cloud.
-- :violin: I enjoy playing violin and viola.
+A little about me:
+- 🖥  Currently work as a Programmer Analyst.
+- 🌱 Learning Vlocity platform development & Salesforce Marketing Cloud.
+- :violin: Enjoy playing violin and viola.
 - :us: 🇧🇷 Born in Brazil.
 
 <div>
