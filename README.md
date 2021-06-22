@@ -6,6 +6,10 @@ A little about me:
 - :violin: Enjoy playing violin and viola.
 - :us: 🇧🇷 Born in Brazil.
 
+Goals:
+- I would like to get certs like: Java OCP 8, SFDC Omniscript, etc...
+- A Scrum cert wouldn't hurt also. 
+
 <div>
 <img  src="SFU_CRT_BDG_Pltfrm_Dev_I_RGB.jpg" width="154">
 <img src="SFU_CRT_BDG_Admin_RGB.jpg" width="154">
