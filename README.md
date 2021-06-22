@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 A little about me:
-- 🖥  Currently work as a Programmer Analyst.
+- 🖥  Job title as Program Analyst.
 - 🌱 Learning Vlocity platform development & Salesforce Marketing Cloud.
 - :violin: Enjoy playing violin and viola.
 - :us: 🇧🇷 Born in Brazil.
