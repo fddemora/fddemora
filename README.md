@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-A little about me:
+#### A little about me:
 - 🖥  Job title as Program Analyst.
 - 🌱 Learning Vlocity & SFMC.
 - :violin: Enjoy playing violin and viola.
 - :us: 🇧🇷 Born in Brazil.
 
-Goals:
+#### Goals:
 - I would like to get certs like: Java OCP 8, SFDC Omniscript, etc...
 - A Scrum cert wouldn't hurt. 
 
