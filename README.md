@@ -7,7 +7,7 @@
 - :us: 🇧🇷 Born in Brazil.
 
 #### Goals:
-- Get certs like: Java OCP 8, SFDC Omniscript, PSM1
+- Be certified in: Java OCP 8, SFDC Omniscript, PSM1
 
 <div>
 <img  src="SFU_CRT_BDG_Pltfrm_Dev_I_RGB.jpg" width="154">
