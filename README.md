@@ -2,12 +2,10 @@
 
 #### A little about me:
 - 🖥  Job title as Program Analyst.
-- 🌱 Learning Vlocity & SFMC.
 - :violin: Enjoy playing violin and viola.
-- :us: 🇧🇷 Born in Brazil.
 
 #### Goals:
-- Be certified in: Java OCP 8, SFDC Omniscript, PSM1
+- Be certified in: Java OCP 8
 
 <div>
 <img  src="SFU_CRT_BDG_Pltfrm_Dev_I_RGB.jpg" width="154">
