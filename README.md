@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 #### A little about me:
-- 🖥  Job title as Program Analyst.
-- :violin: Enjoy playing violin and viola.
+-   Program Analyst at Cognizant Technical Solutions. 🖥
+- I Enjoy playing violin and viola. :violin:
 
 #### Goals:
 - Be certified in: Java OCP 8
