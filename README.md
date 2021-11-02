@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 #### A little about me:
--   Program Analyst at Cognizant Technical Solutions. 🖥
-- I Enjoy playing violin and viola. :violin:
+-  I'm Program Analyst at Cognizant Technical Solutions. 🖥
+- I enjoy playing violin and viola. :violin:
 
 #### Goals:
 - Be certified in: Java OCP 8
 
+<!--
 <div>
 <img  src="SFU_CRT_BDG_Pltfrm_Dev_I_RGB.jpg" width="154">
 <img src="SFU_CRT_BDG_Admin_RGB.jpg" width="154">
@@ -15,7 +16,7 @@
 <div>
 <img src="oracle-certified-associate-java-se-8-programmer.png" width="130">
 </div>
-<!--
+
 **fddemora/fddemora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
