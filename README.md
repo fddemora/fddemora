@@ -2,7 +2,7 @@
 
 #### A little about me:
 -  I'm Program Analyst at Cognizant Technical Solutions. 🖥
-- I'm currently studying for the Java OCP 8 certification.
+- I'm studying for the Java OCP 8 certification.
 - I have a diverse knowledge in web development, and some in data analytics, hacking.
 - I can play the violin, viola, and cello. :violin:
 
