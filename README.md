@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 #### A little about me:
--  I'm Program Analyst at Cognizant Technical Solutions 🖥
-- I have knowledge in web development, OOP, bash, and more
-- I love learning and improvement
+- Program Analyst at Cognizant Technical Solutions 🖥
+- Knowledge in web development, OOP, bash, and more
+- Love to learn and improve
 
 I'll be using Github to track my learning process, so in my repo's, you'll find all the areas that I'm learning!
 
