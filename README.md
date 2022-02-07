@@ -5,7 +5,7 @@
 - Knowledge in web development, OOP, bash, and more
 - Love to learn and improve
 
-I'll be using Github to track my learning process, so in my repo's, you'll find all the areas that I'm learning!
+I'll be using Github to track my learning process, so in my repo's, you can find out what I'm up to!
 
 
 <div>
