@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 #### A little about me:
-- Job title: Program Analyst
 - Knowledge in web development, OOP, bash, and more
 - Love to learn and improve
 
