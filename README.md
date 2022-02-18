@@ -3,7 +3,7 @@
 #### A little about me:
 - Knowledge in web development, OOP, bash, and more
 - Love to learn and improve
-<br/>
+<br/><br/>
 
 #### Certifications
 <hr/>
@@ -13,10 +13,11 @@
 <img src="SFU_CRT_BDG_Admin_RGB.jpg" width="154">
 <img src="2020-02_TH-Certification-Badge_JavaScript-Developer-I_RGB.jpg" width="154">
 </div>
-<br/>
+<br/><br/>
 
 #### Github Stats
 <hr/>
+
 [![Fellipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fddemora)](https://github.com/fddemora/github-readme-stats)
 
 <!--
