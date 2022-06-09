@@ -1,3 +1,5 @@
+
+
 ### Hi there 👋
 
 #### A little about me:
@@ -11,7 +13,8 @@
 <img src="oracle-certified-associate-java-se-8-programmer.png" width="130">
 <img  src="SFU_CRT_BDG_Pltfrm_Dev_I_RGB.jpg" width="154">
 <img src="SFU_CRT_BDG_Admin_RGB.jpg" width="154">
-<img src="2020-02_TH-Certification-Badge_JavaScript-Developer-I_RGB.jpg" width="154">
+<img src="2020-02_TH-Certification-Badge_JavaScript-Developer-I_RGB.jpg" width="154"> 
+<img src="DatoramaFund.png" width="300">
 </div>
 <br/><br/>
 
