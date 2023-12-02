@@ -2,11 +2,6 @@
 
 ### Hi there 👋
 
-#### A little about me:
-- Knowledge in web development, OOP, bash, and more
-- Love to learn and improve
-<br/><br/>
-
 #### Certifications
 <hr/>
 <div>
