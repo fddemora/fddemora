@@ -23,9 +23,7 @@
 
 [![Fellipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fddemora)](https://github.com/fddemora/github-readme-stats)
 
-<script async src="https://tryhackme.com/badge/2139652"></script>
-extra_javascript:
-    https://tryhackme.com/badge/2139652
+
 
 
 <!--
