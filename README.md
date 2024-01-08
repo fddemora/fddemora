@@ -21,7 +21,7 @@ I'm looking into 👇<br/><br/>
 - [ ] OpenGL with C++ https://learnopengl.com/Introduction <br/>
 - [ ] SFMC admin https://help.salesforce.com/s/articleView?id=sf.mc_es_ip_address_warming.htm&type=5  <br/>
 - [ ] MDN JavaScript https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events <br/>
-- [ ] TryHackMe https://tryhackme.com/dashboard <br/>
+- [ ] TryHackMe Cyber Defence https://tryhackme.com/dashboard  ![57%](https://progress-bar.dev/57)<br/>
 
 #### Github Stats
 <hr/>
