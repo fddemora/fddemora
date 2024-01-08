@@ -12,6 +12,13 @@
 <img src="DatoramaFund.png" width="300">
 </div>
 <br/><br/>
+<hr/>
+I'm looking into 👇<br/>
+
+Python: https://docs.python.org/3.11/tutorial/controlflow.html <br/>
+Java: OCP Java SE 8 Programmer II Exam Guide (Exam 1Z0-809), 7th Edition  ![2%](https://progress-bar.dev/2) <br/>
+CompTia Security+ <br/>
+OpenGL with C++ https://learnopengl.com/Introduction <br/>
 
 #### Github Stats
 <hr/>
