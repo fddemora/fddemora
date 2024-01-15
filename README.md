@@ -15,7 +15,7 @@
 <hr/>
 I'm looking into 👇<br/><br/>
 
-- [ ] Python: https://docs.python.org/3.11/tutorial/controlflow.html <br/>
+- [ ] Python: https://docs.python.org/3.11/tutorial/controlflow.html 4.8.2 <br/>
 - [ ] Java: OCP Java SE 8 Programmer II Exam Guide (Exam 1Z0-809), 7th Edition  ![2%](https://progress-bar.dev/2) <br/>
 - [ ] CompTia Security+ <br/>
 - [ ] OpenGL with C++ [https://learnopengl.com/Introduction](https://learnopengl.com/Getting-started/Hello-Triangle) <br/>
