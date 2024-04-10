@@ -18,7 +18,7 @@ I'm looking into 👇<br/><br/>
 - [ ] Python: https://docs.python.org/3.11/tutorial/controlflow.html 4.8.2 <br/>
 - [ ] Java: OCP Java SE 8 Programmer II Exam Guide (Exam 1Z0-809), 7th Edition  ![2%](https://progress-bar.dev/2) <br/>
 - [ ] CompTia Security+ <br/>
-- [ ] OpenGL with C++ [https://learnopengl.com/Introduction](https://learnopengl.com/Getting-started/Hello-Triangle) <br/>
+- [x] OpenGL with C++ [https://learnopengl.com/Introduction](https://learnopengl.com/Getting-started/Hello-Triangle) <br/>
 - [ ] SFMC admin https://help.salesforce.com/s/articleView?id=sf.mc_es_ip_address_warming.htm&type=5  <br/>
 - [ ] MDN JavaScript https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events <br/>
 - [ ] TryHackMe Cyber Defence https://tryhackme.com/dashboard  ![57%](https://progress-bar.dev/57)<br/>
