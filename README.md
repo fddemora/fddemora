@@ -15,17 +15,11 @@
 <hr/>
 I'm looking into 👇<br/><br/>
 
-- [ ] Python: https://docs.python.org/3.11/tutorial/controlflow.html 4.8.2 <br/>
-- [ ] Java: OCP Java SE 8 Programmer II Exam Guide (Exam 1Z0-809), 7th Edition  ![2%](https://progress-bar.dev/2) <br/>
-- [ ] CompTia Security+ <br/>
-- [ ] MDN JavaScript https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events <br/>
-- [ ] TryHackMe Cyber Defence https://tryhackme.com/dashboard  ![57%](https://progress-bar.dev/57)<br/>
-
-#### Github Stats
-<hr/>
-
-[![Fellipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fddemora)](https://github.com/fddemora/github-readme-stats)
-
+- Python: https://docs.python.org/3.11/tutorial/controlflow.html 4.8.2 <br/>
+- Java: OCP Java SE 8 Programmer II Exam Guide (Exam 1Z0-809), 7th Edition  ![2%](https://progress-bar.dev/2) <br/>
+- CompTia Security+ <br/>
+- MDN JavaScript https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events <br/>
+- TryHackMe Cyber Defence https://tryhackme.com/dashboard  ![57%](https://progress-bar.dev/57)<br/>
 
 
 
