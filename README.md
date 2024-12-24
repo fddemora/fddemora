@@ -1,26 +1,12 @@
 
 
-### Hi there 👋
+### Welcome👋
 
-#### Certifications
-<hr/>
-<div>
-<img src="oracle-certified-associate-java-se-8-programmer.png" width="130">
-<img  src="SFU_CRT_BDG_Pltfrm_Dev_I_RGB.jpg" width="154">
-<img src="SFU_CRT_BDG_Admin_RGB.jpg" width="154">
-<img src="2020-02_TH-Certification-Badge_JavaScript-Developer-I_RGB.jpg" width="154"> 
-<img src="DatoramaFund.png" width="300">
-</div>
-<br/><br/>
-<hr/>
-I'm looking into 👇<br/><br/>
+I'm a software developer with interest in almost all aspects of computer science.
 
-- Python: https://docs.python.org/3.11/tutorial/controlflow.html 4.8.2 <br/>
-- Java: OCP Java SE 8 Programmer II Exam Guide (Exam 1Z0-809), 7th Edition  ![2%](https://progress-bar.dev/2) <br/>
-- CompTia Security+ <br/>
-- MDN JavaScript https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events <br/>
-- TryHackMe Cyber Defence https://tryhackme.com/dashboard  ![57%](https://progress-bar.dev/57)<br/>
-
+https://www.salesforce.com/trailblazer/demoraes </br>
+https://leetcode.com/u/fellipe92/ </br>
+https://tryhackme.com/r/p/fellipe.demoraes
 
 
 <!--
