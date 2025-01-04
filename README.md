@@ -2,7 +2,7 @@
 
 ### Welcome👋
 
-I'm a software developer with interest in almost all aspects of computer science.
+Interests:
 
 https://www.salesforce.com/trailblazer/demoraes </br>
 https://leetcode.com/u/fellipe92/ </br>
